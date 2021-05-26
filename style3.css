@@ -1,0 +1,32 @@
+body { 
+  background-image: url('bg3.jpg'); 
+  background-repeat:no-repeat;
+  position : center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h1{
+  text-align : center;
+  color : #F9E076;
+  font-family : serif;
+  margin: 1px
+}
+
+
+h4{
+  color : #EEE8AA;
+}
+
+#finalgif{
+	border : 5px solid #EEE8AA;
+}
+
+#play {
+	margin-right: -15px;
+}
+
+#pause {
+	margin-left: -19px;
+}

@@ -1,0 +1,45 @@
+body { 
+  background-image: url('bg1.jpg'); 
+  background-repeat:no-repeat;
+  position : center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h1{
+  text-align : center;
+  color : #EEE8AA;
+  font-family : serif;
+  margin: 1px
+}
+
+h4{
+  color : #FC9483;
+}
+
+a:link {
+  color: lightblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F5963D;
+  background-color: transparent;
+  /*text-decoration: underline;*/
+}
+
+#play {
+	margin-right: -15px;
+}
+
+#pause {
+	margin-left: -19px;
+}
