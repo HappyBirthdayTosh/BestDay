@@ -17,29 +17,3 @@ h1{
 h4{
   color : #FC9483;
 }
-
-a:link {
-  color: lightblue;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #F5963D;
-  background-color: transparent;
-  /*text-decoration: underline;*/
-}
-
-#play {
-	margin-right: -15px;
-}
-
-#pause {
-	margin-left: -19px;
-}
